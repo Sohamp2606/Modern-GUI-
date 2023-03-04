@@ -1,7 +1,7 @@
 # Modern-GUI-
 **Project CALCULATOR**
 
-Calculator interface with modern GUI python library ttkbootstrap 
+Calculator interface with modern GUI python library ttkbootstrap   
 
 
 
